@@ -114,7 +114,7 @@ const Checkout = () => {
   };
 
   const updateData = (idx, product) => {
-    const newData = data;
+    const newData = [...data];
     newData[idx] = product;
     setData(newData);
     setUpdateQuantity([]);
