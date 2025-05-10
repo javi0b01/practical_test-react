@@ -7,7 +7,7 @@ This repository contains projects based on technical tests.
 - React
 
 ## Projects
-:open_file_folder: 0x00
+:open_file_folder: [0x00](./0x00/)
 
 ## Software Developer
 Built by [Javi](https://github.com/javi0b01) :copyright: 2025  
